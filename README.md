@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A student passionate about data and technology.
 
 
@@ -17,6 +17,7 @@ A student passionate about data and technology.
 
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FArpit-Ghimire&left_text=Profile%20Visitors&left_color=%23545454&right_color=%23c41212&logo=github&height=25)
+![](https://hit.yhype.me/github/profile?account_id=150230954)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
